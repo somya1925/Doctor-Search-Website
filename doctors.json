@@ -1,0 +1,28 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. John Smith",
+        "specialization": "Cardiologist",
+        "image": "Images/name_Dr John.png",
+        "information": "Dr. John Smith is a highly experienced cardiologist with expertise in treating heart-related conditions."
+      },
+      {
+        "name": "Dr. Sarah Johnson",
+        "specialization": "Dermatologist",
+        "image": "Images/name_Dr Sar.png",
+        "information": "Dr. Sarah Johnson specializes in dermatology and provides top-notch skincare services."
+      },
+      {
+        "name": "Dr. Michael Brown",
+        "specialization": "Pediatrician",
+        "image": "Images/name_Dr Mic.png",
+        "information": "Dr. Michael Brown is a pediatrician dedicated to the health and well-being of children."
+      },
+      {
+        "name": "Dr. Lisa Davis",
+        "specialization": "Gynecologist",
+        "image": "Images/name_Dr Lis.png",
+        "information": "Dr. Lisa Davis is a gynecologist committed to women's reproductive health."
+      }
+    ]
+}
